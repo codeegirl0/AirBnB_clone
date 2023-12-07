@@ -1,3 +1,5 @@
 this is a readme file
+<<<<<<< HEAD
 develope branch 
-line added in github
+=======
+>>>>>>> 2bfc636d4d4124b81325f6777c4b2c5473781632
